@@ -25,7 +25,7 @@ class BasicModel(SplitModel):
         self.population = population
 
         #corrected rates for exponential models
-        self.survival = -np.log(1-survival)
+        self.survival = survival
         self.mortality = -np.log(1-mortality)
         self.reproduction = -np.log(1-reproduction)
 

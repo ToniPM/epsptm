@@ -8,7 +8,7 @@ This project was started because of a discussion regarding the use of "per capit
 
 (b) <img src="https://render.githubusercontent.com/render/math?math=I' = kI(P-I)P">
 
-If one makes the assumption that population density is linear with correlation, using the above models to compare different countries is tantamount to assuming:
+If one makes the assumption that population density is linear with rate of spread of disease, using the above models to compare different countries is tantamount to assuming:
 
 (a) Both countries have the same population density, i.e. area scales with population
 
